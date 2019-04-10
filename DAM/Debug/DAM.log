@@ -1,0 +1,108 @@
+[INFO] 21:19:16:96 DAM/(8838:8838): *************** NUEVO LOG ***************
+[INFO] 21:19:17:233 DAM/(8838:8838): Se abrió el archivo de configuración correctamente.
+[INFO] 21:19:17:271 DAM/(8838:8838): Socket creado correctamente.
+[INFO] 21:19:17:284 DAM/(8838:8838): Socket bindeado correctamente.
+[INFO] 21:19:17:289 DAM/(8838:8838): Escuchando conexiones.
+[INFO] 21:19:30:769 DAM/(8838:8838): Conexion aceptada (sock_id: 5)
+[INFO] 21:19:30:802 DAM/(8838:8838): Proceso: 1
+[INFO] 21:19:30:806 DAM/(8838:8838): Procesar mensaje: 0
+[INFO] 21:19:30:817 DAM/(8838:8838): Se envió menasje (proceso 2).
+[INFO] 21:19:31:822 DAM/(8838:8838): Proceso: 1
+[INFO] 21:19:31:826 DAM/(8838:8838): Procesar mensaje: 2
+[INFO] 21:19:31:839 DAM/(8838:8838): Ehhh voy a buscar 'Test.txt' para 5
+[ERROR] 21:19:31:848 DAM/(8838:8838): No se pudo enviar mensaje (proceso 2).
+[ERROR] 21:19:31:863 DAM/(8838:8838): Ocurrio un error con MDJ
+[INFO] 21:19:31:869 DAM/(8838:8838): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 21:23:51:944 DAM/(9230:9230): *************** NUEVO LOG ***************
+[INFO] 21:23:52:53 DAM/(9230:9230): Se abrió el archivo de configuración correctamente.
+[INFO] 21:23:52:75 DAM/(9230:9230): Socket creado correctamente.
+[INFO] 21:23:52:83 DAM/(9230:9230): Socket bindeado correctamente.
+[INFO] 21:23:52:88 DAM/(9230:9230): Escuchando conexiones.
+[INFO] 21:24:02:284 DAM/(9230:9230): Conexion aceptada (sock_id: 5)
+[INFO] 21:24:02:301 DAM/(9230:9230): Proceso: 1
+[INFO] 21:24:02:302 DAM/(9230:9230): Procesar mensaje: 0
+[INFO] 21:24:02:308 DAM/(9230:9230): Se envió menasje (proceso 2).
+[INFO] 21:24:03:308 DAM/(9230:9230): Proceso: 1
+[INFO] 21:24:03:310 DAM/(9230:9230): Procesar mensaje: 2
+[INFO] 21:24:03:319 DAM/(9230:9230): Ehhh voy a buscar 'Test.txt' para 5
+[ERROR] 21:24:03:329 DAM/(9230:9230): No se pudo enviar mensaje (proceso 2).
+[ERROR] 21:24:03:341 DAM/(9230:9230): Ocurrio un error con MDJ
+[INFO] 21:24:03:344 DAM/(9230:9230): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 21:25:14:77 DAM/(9254:9254): *************** NUEVO LOG ***************
+[INFO] 21:25:15:160 DAM/(9254:9254): Se abrió el archivo de configuración correctamente.
+[INFO] 21:25:15:185 DAM/(9254:9254): Socket creado correctamente.
+[INFO] 21:25:15:195 DAM/(9254:9254): Socket bindeado correctamente.
+[INFO] 21:25:15:197 DAM/(9254:9254): Escuchando conexiones.
+[INFO] 21:25:29:907 DAM/(9254:9254): Conexion aceptada (sock_id: 5)
+[INFO] 21:25:29:933 DAM/(9254:9254): Proceso: 1
+[INFO] 21:25:29:934 DAM/(9254:9254): Procesar mensaje: 0
+[INFO] 21:25:29:940 DAM/(9254:9254): Se envió menasje (proceso 2).
+[INFO] 21:25:30:941 DAM/(9254:9254): Proceso: 1
+[INFO] 21:25:30:947 DAM/(9254:9254): Procesar mensaje: 2
+[INFO] 21:25:30:951 DAM/(9254:9254): Ehhh voy a buscar 'Test.txt' para 5
+[ERROR] 21:25:30:959 DAM/(9254:9254): No se pudo enviar mensaje (proceso 2).
+[ERROR] 21:25:30:962 DAM/(9254:9254): Ocurrio un error con MDJ
+[INFO] 21:25:30:965 DAM/(9254:9254): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 21:30:49:99 DAM/(9498:9498): *************** NUEVO LOG ***************
+[INFO] 21:30:49:186 DAM/(9498:9498): Se abrió el archivo de configuración correctamente.
+[INFO] 21:30:49:211 DAM/(9498:9498): Socket creado correctamente.
+[INFO] 21:30:49:220 DAM/(9498:9498): Socket bindeado correctamente.
+[INFO] 21:30:49:222 DAM/(9498:9498): Escuchando conexiones.
+[INFO] 21:30:54:907 DAM/(9498:9498): Conexion aceptada (sock_id: 5)
+[INFO] 21:30:54:917 DAM/(9498:9498): Proceso: 1
+[INFO] 21:30:54:922 DAM/(9498:9498): Procesar mensaje: 0
+[INFO] 21:30:54:927 DAM/(9498:9498): Se envió menasje (proceso 2).
+[INFO] 21:30:55:931 DAM/(9498:9498): Proceso: 1
+[INFO] 21:30:55:933 DAM/(9498:9498): Procesar mensaje: 2
+[INFO] 21:30:55:946 DAM/(9498:9498): Ehhh voy a buscar 'Test.txt' para 5
+[ERROR] 21:30:55:955 DAM/(9498:9498): No se pudo enviar mensaje (proceso 2).
+[ERROR] 21:30:55:964 DAM/(9498:9498): Ocurrio un error con MDJ
+[INFO] 21:30:55:977 DAM/(9498:9498): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 22:25:15:119 DAM/(12036:12036): *************** NUEVO LOG ***************
+[INFO] 22:25:15:120 DAM/(12036:12036): Se abrió el archivo de configuración correctamente.
+[INFO] 22:25:15:120 DAM/(12036:12036): Socket creado correctamente.
+[INFO] 22:25:15:121 DAM/(12036:12036): Socket bindeado correctamente.
+[INFO] 22:25:15:121 DAM/(12036:12036): Escuchando conexiones.
+[INFO] 22:25:57:466 DAM/(12110:12110): *************** NUEVO LOG ***************
+[INFO] 22:25:57:466 DAM/(12110:12110): Se abrió el archivo de configuración correctamente.
+[INFO] 22:25:57:466 DAM/(12110:12110): Socket creado correctamente.
+[ERROR] 22:25:57:467 DAM/(12110:12110): No se pudo conectar al Servidor.
+[INFO] 22:25:57:467 DAM/(12110:12110): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 22:43:31:929 DAM/(12799:12799): *************** NUEVO LOG ***************
+[INFO] 22:43:31:929 DAM/(12799:12799): Se abrió el archivo de configuración correctamente.
+[INFO] 22:43:31:929 DAM/(12799:12799): Socket creado correctamente.
+[ERROR] 22:43:31:930 DAM/(12799:12799): No se pudo conectar al Servidor.
+[INFO] 22:43:31:930 DAM/(12799:12799): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 22:49:18:731 DAM/(13011:13011): *************** NUEVO LOG ***************
+[INFO] 22:49:18:732 DAM/(13011:13011): Se abrió el archivo de configuración correctamente.
+[INFO] 22:49:18:732 DAM/(13011:13011): Socket creado correctamente.
+[ERROR] 22:49:18:732 DAM/(13011:13011): No se pudo conectar al Servidor.
+[INFO] 22:49:18:732 DAM/(13011:13011): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 22:50:32:423 DAM/(13069:13069): *************** NUEVO LOG ***************
+[INFO] 22:50:32:423 DAM/(13069:13069): Se abrió el archivo de configuración correctamente.
+[INFO] 22:50:32:424 DAM/(13069:13069): Socket creado correctamente.
+[ERROR] 22:50:32:424 DAM/(13069:13069): No se pudo conectar al Servidor.
+[INFO] 22:50:32:424 DAM/(13069:13069): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 23:04:36:612 DAM/(13340:13340): *************** NUEVO LOG ***************
+[INFO] 23:04:36:613 DAM/(13340:13340): Se abrió el archivo de configuración correctamente.
+[INFO] 23:04:36:613 DAM/(13340:13340): Socket creado correctamente.
+[INFO] 23:04:36:614 DAM/(13340:13340): Conectado al Servidor correctamente.
+[INFO] 23:04:36:614 DAM/(13340:13340): INICIO Handshake(2)...
+[INFO] 23:04:36:614 DAM/(13340:13340): Se envió menasje (proceso 2).
+[ERROR] 23:04:43:992 DAM/(13340:13340): Se desconecto o ocurrio un error con el socket (sock_id: 4).
+[INFO] 23:07:12:409 DAM/(13431:13431): *************** NUEVO LOG ***************
+[INFO] 23:07:12:410 DAM/(13431:13431): Se abrió el archivo de configuración correctamente.
+[INFO] 23:07:12:410 DAM/(13431:13431): Socket creado correctamente.
+[ERROR] 23:07:12:410 DAM/(13431:13431): No se pudo conectar al Servidor.
+[INFO] 23:07:12:411 DAM/(13431:13431): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 23:08:27:583 DAM/(13482:13482): *************** NUEVO LOG ***************
+[INFO] 23:08:27:583 DAM/(13482:13482): Se abrió el archivo de configuración correctamente.
+[INFO] 23:08:27:583 DAM/(13482:13482): Socket creado correctamente.
+[ERROR] 23:08:27:583 DAM/(13482:13482): No se pudo conectar al Servidor.
+[INFO] 23:08:27:584 DAM/(13482:13482): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 09:35:40:21 DAM/(5624:5624): *************** NUEVO LOG ***************
+[ERROR] 09:35:40:33 DAM/(5624:5624): Ingrese el path del archivo de configuracion
+[INFO] 09:35:40:33 DAM/(5624:5624): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 09:38:10:333 DAM/(5797:5797): *************** NUEVO LOG ***************
+[ERROR] 09:38:10:334 DAM/(5797:5797): Ingrese el path del archivo de configuracion
+[INFO] 09:38:10:334 DAM/(5797:5797): ********* FIN DEL PROCESO DIEGO *********

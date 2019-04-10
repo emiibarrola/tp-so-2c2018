@@ -1,0 +1,61 @@
+[INFO] 20:40:31:376 MDJ/(6542:6542): *************** NUEVO LOG ***************
+[INFO] 20:40:31:376 MDJ/(6542:6542): Se abrió el archivo de configuración correctamente.
+[INFO] 20:40:31:376 MDJ/(6542:6542): Socket creado correctamente.
+[INFO] 20:40:31:377 MDJ/(6542:6542): Socket bindeado correctamente.
+[INFO] 20:40:31:377 MDJ/(6542:6542): Escuchando conexiones.
+[ERROR] 20:40:49:130 MDJ/(6542:6542): No se puede aceptar conexiones.
+[ERROR] 20:40:49:131 MDJ/(6542:6542): Se desconecto o ocurrio un error con el socket (sock_id: -1).
+[INFO] 20:42:06:172 MDJ/(6786:6786): *************** NUEVO LOG ***************
+[INFO] 20:42:06:173 MDJ/(6786:6786): Se abrió el archivo de configuración correctamente.
+[INFO] 20:42:06:173 MDJ/(6786:6786): Socket creado correctamente.
+[INFO] 20:42:06:173 MDJ/(6786:6786): Socket bindeado correctamente.
+[INFO] 20:42:06:173 MDJ/(6786:6786): Escuchando conexiones.
+[INFO] 20:42:16:527 MDJ/(6786:6786): Conexion aceptada (sock_id: 5)
+[INFO] 20:42:16:528 MDJ/(6786:6786): Proceso: 2
+[INFO] 20:42:16:528 MDJ/(6786:6786): Procesar mensaje: 0
+[INFO] 20:42:16:528 MDJ/(6786:6786): Proceso DAM Conectado
+[INFO] 20:42:16:528 MDJ/(6786:6786): Se envió menasje (proceso 4).
+[INFO] 20:45:06:758 MDJ/(6880:6880): *************** NUEVO LOG ***************
+[INFO] 20:45:06:758 MDJ/(6880:6880): Se abrió el archivo de configuración correctamente.
+[INFO] 20:45:06:759 MDJ/(6880:6880): Socket creado correctamente.
+[INFO] 20:45:06:759 MDJ/(6880:6880): Socket bindeado correctamente.
+[INFO] 20:45:06:759 MDJ/(6880:6880): Escuchando conexiones.
+[INFO] 20:45:29:573 MDJ/(6880:6880): Conexion aceptada (sock_id: 5)
+[INFO] 20:45:29:573 MDJ/(6880:6880): Proceso: 2
+[INFO] 20:45:29:573 MDJ/(6880:6880): Procesar mensaje: 0
+[INFO] 20:45:29:573 MDJ/(6880:6880): Proceso DAM Conectado
+[INFO] 20:45:29:573 MDJ/(6880:6880): Se envió menasje (proceso 4).
+[INFO] 20:48:36:264 MDJ/(7057:7057): *************** NUEVO LOG ***************
+[INFO] 20:48:36:265 MDJ/(7057:7057): Se abrió el archivo de configuración correctamente.
+[INFO] 20:48:36:265 MDJ/(7057:7057): Socket creado correctamente.
+[INFO] 20:48:36:265 MDJ/(7057:7057): Socket bindeado correctamente.
+[INFO] 20:48:36:265 MDJ/(7057:7057): Escuchando conexiones.
+[INFO] 20:48:50:860 MDJ/(7057:7057): Conexion aceptada (sock_id: 5)
+[INFO] 20:48:50:860 MDJ/(7057:7057): Proceso: 2
+[INFO] 20:48:50:860 MDJ/(7057:7057): Procesar mensaje: 0
+[INFO] 20:48:50:860 MDJ/(7057:7057): Proceso DAM Conectado
+[INFO] 20:48:50:860 MDJ/(7057:7057): Se envió menasje (proceso 4).
+[INFO] 20:52:14:365 MDJ/(7264:7264): *************** NUEVO LOG ***************
+[INFO] 20:52:14:372 MDJ/(7264:7264): Se abrió el archivo de configuración correctamente.
+[INFO] 20:52:14:372 MDJ/(7264:7264): Socket creado correctamente.
+[INFO] 20:52:14:372 MDJ/(7264:7264): Socket bindeado correctamente.
+[INFO] 20:52:14:372 MDJ/(7264:7264): Escuchando conexiones.
+[INFO] 20:52:28:890 MDJ/(7264:7264): Conexion aceptada (sock_id: 5)
+[INFO] 20:52:28:890 MDJ/(7264:7264): Proceso: 2
+[INFO] 20:52:28:890 MDJ/(7264:7264): Procesar mensaje: 0
+[INFO] 20:52:28:890 MDJ/(7264:7264): Proceso DAM Conectado
+[INFO] 20:52:28:890 MDJ/(7264:7264): Se envió menasje (proceso 4).
+[INFO] 10:18:04:685 MDJ/(8553:8553): *************** NUEVO LOG ***************
+[INFO] 10:18:04:705 MDJ/(8553:8553): Se abrió el archivo de configuración correctamente.
+[INFO] 10:18:04:706 MDJ/(8553:8553): Socket creado correctamente.
+[INFO] 10:18:04:706 MDJ/(8553:8553): Socket bindeado correctamente.
+[INFO] 10:18:04:706 MDJ/(8553:8553): Escuchando conexiones.
+[ERROR] 10:18:06:325 MDJ/(8553:8553): No se puede aceptar conexiones.
+[ERROR] 10:18:06:326 MDJ/(8553:8553): Se desconecto o ocurrio un error con el socket (sock_id: -1).
+[INFO] 10:18:11:980 MDJ/(8556:8556): *************** NUEVO LOG ***************
+[INFO] 10:18:11:980 MDJ/(8556:8556): Se abrió el archivo de configuración correctamente.
+[INFO] 10:18:11:980 MDJ/(8556:8556): Socket creado correctamente.
+[INFO] 10:18:11:980 MDJ/(8556:8556): Socket bindeado correctamente.
+[INFO] 10:18:11:980 MDJ/(8556:8556): Escuchando conexiones.
+[ERROR] 10:18:21:57 MDJ/(8556:8556): No se puede aceptar conexiones.
+[ERROR] 10:18:21:57 MDJ/(8556:8556): Se desconecto o ocurrio un error con el socket (sock_id: -1).

@@ -1,0 +1,448 @@
+[INFO] 23:42:07:308 CPU/(9748:9748): Se abrió el archivo de configuración correctamente.
+[INFO] 23:42:09:72 CPU/(9748:9748): Socket creado correctamente.
+[INFO] 23:43:01:483 CPU/(9803:9803): Se abrió el archivo de configuración correctamente.
+[INFO] 23:43:03:54 CPU/(9803:9803): Socket creado correctamente.
+[INFO] 23:43:03:653 CPU/(9803:9803): Conectado al Servidor correctamente.
+[INFO] 23:43:06:402 CPU/(9803:9803): INICIO Handshake(1)...
+[INFO] 23:43:07:192 CPU/(9803:9803): Se envió menasje (proceso 2).
+[INFO] 23:45:02:461 CPU/(9803:9803): FIN Handshake(1)
+[INFO] 23:45:11:572 CPU/(9803:9803): Return Operacion
+[INFO] 23:45:52:184 CPU/(9960:9960): Se abrió el archivo de configuración correctamente.
+[INFO] 23:45:54:6 CPU/(9960:9960): Socket creado correctamente.
+[INFO] 23:45:54:466 CPU/(9960:9960): Conectado al Servidor correctamente.
+[INFO] 23:45:55:381 CPU/(9960:9960): INICIO Handshake(1)...
+[INFO] 23:45:56:200 CPU/(9960:9960): Se envió menasje (proceso 1).
+[INFO] 23:46:22:404 CPU/(9960:9960): FIN Handshake(1)
+[INFO] 23:46:23:404 CPU/(9960:9960): Return Operacion
+[INFO] 23:36:25:197 CPU/(5910:5910): Se abrió el archivo de configuración correctamente.
+[INFO] 23:36:25:205 CPU/(5910:5910): Socket creado correctamente.
+[INFO] 23:36:25:206 CPU/(5910:5910): Conectado al Servidor correctamente.
+[INFO] 23:36:25:206 CPU/(5910:5910): INICIO Handshake(1)...
+[INFO] 23:36:25:206 CPU/(5910:5910): Se envió menasje (proceso 1).
+[INFO] 23:36:25:207 CPU/(5910:5910): FIN Handshake(1)
+[INFO] 23:36:26:207 CPU/(5910:5910): Return Operacion
+[INFO] 23:39:01:78 CPU/(5960:5960): Se abrió el archivo de configuración correctamente.
+[INFO] 23:39:01:87 CPU/(5960:5960): Socket creado correctamente.
+[INFO] 23:39:01:87 CPU/(5960:5960): Conectado al Servidor correctamente.
+[INFO] 23:39:01:87 CPU/(5960:5960): INICIO Handshake(1)...
+[INFO] 23:39:01:89 CPU/(5960:5960): Se envió menasje (proceso 1).
+[INFO] 23:39:01:89 CPU/(5960:5960): FIN Handshake(1)
+[INFO] 23:39:02:89 CPU/(5960:5960): Return Operacion
+[INFO] 23:42:18:198 CPU/(6128:6128): Se abrió el archivo de configuración correctamente.
+[INFO] 23:42:18:199 CPU/(6128:6128): Socket creado correctamente.
+[INFO] 23:42:18:199 CPU/(6128:6128): Conectado al Servidor correctamente.
+[INFO] 23:42:18:200 CPU/(6128:6128): INICIO Handshake(1)...
+[INFO] 23:42:18:200 CPU/(6128:6128): Se envió menasje (proceso 1).
+[INFO] 23:42:18:200 CPU/(6128:6128): FIN Handshake(1)
+[INFO] 23:42:19:201 CPU/(6128:6128): Return Operacion
+[INFO] 00:07:21:616 CPU/(7139:7139): Se abrió el archivo de configuración correctamente.
+[INFO] 00:07:21:617 CPU/(7139:7139): Socket creado correctamente.
+[INFO] 00:07:21:618 CPU/(7139:7139): Conectado al Servidor correctamente.
+[INFO] 00:07:21:618 CPU/(7139:7139): INICIO Handshake(1)...
+[INFO] 00:07:21:618 CPU/(7139:7139): Se envió menasje (proceso 1).
+[INFO] 00:07:21:619 CPU/(7139:7139): FIN Handshake(1)
+[INFO] 00:07:22:620 CPU/(7139:7139): Incio de Operacion: '1'
+[INFO] 00:07:22:621 CPU/(7139:7139): Se envió menasje (proceso 1).
+[INFO] 00:12:42:433 CPU/(7344:7344): Se abrió el archivo de configuración correctamente.
+[INFO] 00:12:42:434 CPU/(7344:7344): Socket creado correctamente.
+[ERROR] 00:12:42:435 CPU/(7344:7344): No se pudo conectar al Servidor.
+[INFO] 00:12:42:435 CPU/(7344:7344): INICIO Handshake(1)...
+[INFO] 00:13:07:158 CPU/(7361:7361): Se abrió el archivo de configuración correctamente.
+[INFO] 00:13:07:162 CPU/(7361:7361): Socket creado correctamente.
+[INFO] 00:13:07:164 CPU/(7361:7361): Conectado al Servidor correctamente.
+[INFO] 00:13:07:164 CPU/(7361:7361): INICIO Handshake(1)...
+[INFO] 00:13:07:174 CPU/(7361:7361): Se envió menasje (proceso 1).
+[INFO] 00:13:16:681 CPU/(7361:7361): FIN Handshake(1)
+[INFO] 00:13:17:681 CPU/(7361:7361): Incio de Operacion: '1'
+[INFO] 00:13:17:682 CPU/(7361:7361): Se envió menasje (proceso 1).
+[INFO] 00:15:57:93 CPU/(7466:7466): Se abrió el archivo de configuración correctamente.
+[INFO] 00:15:57:95 CPU/(7466:7466): Socket creado correctamente.
+[INFO] 00:15:57:97 CPU/(7466:7466): Conectado al Servidor correctamente.
+[INFO] 00:15:57:98 CPU/(7466:7466): INICIO Handshake(1)...
+[INFO] 00:15:57:102 CPU/(7466:7466): Se envió menasje (proceso 1).
+[INFO] 00:16:00:202 CPU/(7466:7466): FIN Handshake(1)
+[INFO] 00:16:01:203 CPU/(7466:7466): Incio de Operacion: '1'
+[INFO] 00:16:01:203 CPU/(7466:7466): Se envió menasje (proceso 1).
+[INFO] 00:37:04:869 CPU/(8308:8308): Se abrió el archivo de configuración correctamente.
+[INFO] 00:37:04:874 CPU/(8308:8308): Socket creado correctamente.
+[ERROR] 00:37:04:874 CPU/(8308:8308): No se pudo conectar al Servidor.
+[INFO] 00:37:04:875 CPU/(8308:8308): INICIO Handshake(1)...
+[INFO] 00:37:13:474 CPU/(8326:8326): Se abrió el archivo de configuración correctamente.
+[INFO] 00:37:13:478 CPU/(8326:8326): Socket creado correctamente.
+[INFO] 00:37:13:479 CPU/(8326:8326): Conectado al Servidor correctamente.
+[INFO] 00:37:13:480 CPU/(8326:8326): INICIO Handshake(1)...
+[INFO] 00:37:13:490 CPU/(8326:8326): Se envió menasje (proceso 1).
+[INFO] 00:37:43:435 CPU/(8383:8383): Se abrió el archivo de configuración correctamente.
+[INFO] 00:37:43:436 CPU/(8383:8383): Socket creado correctamente.
+[INFO] 00:37:43:436 CPU/(8383:8383): Conectado al Servidor correctamente.
+[INFO] 00:37:43:436 CPU/(8383:8383): INICIO Handshake(1)...
+[INFO] 00:37:43:446 CPU/(8383:8383): Se envió menasje (proceso 1).
+[INFO] 00:41:13:936 CPU/(8587:8587): Se abrió el archivo de configuración correctamente.
+[INFO] 00:41:13:942 CPU/(8587:8587): Socket creado correctamente.
+[INFO] 00:41:13:943 CPU/(8587:8587): Conectado al Servidor correctamente.
+[INFO] 00:41:13:943 CPU/(8587:8587): INICIO Handshake(1)...
+[INFO] 00:41:13:957 CPU/(8587:8587): Se envió menasje (proceso 1).
+[INFO] 00:41:26:916 CPU/(8587:8587): FIN Handshake(1)
+[INFO] 00:41:27:917 CPU/(8587:8587): Incio de Operacion: '1'
+[INFO] 00:41:27:917 CPU/(8587:8587): Se envió menasje (proceso 1).
+[INFO] 00:44:53:258 CPU/(8804:8804): Se abrió el archivo de configuración correctamente.
+[INFO] 00:44:54:492 CPU/(8804:8804): Socket creado correctamente.
+[INFO] 00:44:54:493 CPU/(8804:8804): Conectado al Servidor correctamente.
+[INFO] 00:44:54:493 CPU/(8804:8804): INICIO Handshake(1)...
+[INFO] 00:44:54:493 CPU/(8804:8804): Se envió menasje (proceso 1).
+[INFO] 00:44:59:42 CPU/(8804:8804): FIN Handshake(1)
+[INFO] 00:45:21:168 CPU/(8804:8804): Incio de Operacion: '1'
+[INFO] 00:49:06:875 CPU/(9052:9052): Se abrió el archivo de configuración correctamente.
+[INFO] 00:49:07:381 CPU/(9052:9052): Socket creado correctamente.
+[INFO] 00:49:07:383 CPU/(9052:9052): Conectado al Servidor correctamente.
+[INFO] 00:49:07:383 CPU/(9052:9052): INICIO Handshake(1)...
+[INFO] 00:49:07:383 CPU/(9052:9052): Se envió menasje (proceso 1).
+[INFO] 00:49:09:486 CPU/(9052:9052): FIN Handshake(1)
+[INFO] 00:49:16:692 CPU/(9052:9052): Incio de Operacion: '1'
+[INFO] 00:49:52:466 CPU/(9052:9052): Se envió menasje (proceso 1).
+[INFO] 00:53:06:441 CPU/(9264:9264): Se abrió el archivo de configuración correctamente.
+[INFO] 00:53:07:9 CPU/(9264:9264): Socket creado correctamente.
+[INFO] 00:53:07:9 CPU/(9264:9264): Conectado al Servidor correctamente.
+[INFO] 00:53:07:9 CPU/(9264:9264): INICIO Handshake(1)...
+[INFO] 00:53:07:10 CPU/(9264:9264): Se envió menasje (proceso 1).
+[INFO] 00:53:26:475 CPU/(9264:9264): FIN Handshake(1)
+[INFO] 00:53:34:606 CPU/(9264:9264): Incio de Operacion: '1'
+[INFO] 00:53:47:211 CPU/(9264:9264): Se envió menasje (proceso 1).
+[INFO] 00:56:05:872 CPU/(9469:9469): Se abrió el archivo de configuración correctamente.
+[INFO] 00:56:05:872 CPU/(9469:9469): Socket creado correctamente.
+[INFO] 00:56:05:873 CPU/(9469:9469): Conectado al Servidor correctamente.
+[INFO] 00:56:05:873 CPU/(9469:9469): INICIO Handshake(1)...
+[INFO] 00:56:05:873 CPU/(9469:9469): Se envió menasje (proceso 1).
+[INFO] 00:56:09:646 CPU/(9469:9469): FIN Handshake(1)
+[INFO] 00:56:10:646 CPU/(9469:9469): Incio de Operacion: '1'
+[INFO] 00:56:10:647 CPU/(9469:9469): Se envió menasje (proceso 1).
+[INFO] 01:00:13:584 CPU/(9659:9659): Se abrió el archivo de configuración correctamente.
+[INFO] 01:00:13:818 CPU/(9659:9659): Socket creado correctamente.
+[INFO] 01:00:13:818 CPU/(9659:9659): Conectado al Servidor correctamente.
+[INFO] 01:00:13:819 CPU/(9659:9659): INICIO Handshake(1)...
+[INFO] 01:00:13:819 CPU/(9659:9659): Se envió menasje (proceso 1).
+[INFO] 01:00:17:646 CPU/(9659:9659): FIN Handshake(1)
+[INFO] 01:00:23:750 CPU/(9659:9659): Incio de Operacion: '1'
+[INFO] 01:01:10:68 CPU/(9659:9659): Se envió menasje (proceso 1).
+[INFO] 23:55:42:613 CPU/(4452:4452): Se abrió el archivo de configuración correctamente.
+[INFO] 23:55:43:418 CPU/(4452:4452): Socket creado correctamente.
+[INFO] 23:55:43:419 CPU/(4452:4452): Conectado al Servidor correctamente.
+[INFO] 23:55:43:419 CPU/(4452:4452): INICIO Handshake(1)...
+[INFO] 23:55:43:419 CPU/(4452:4452): Se envió menasje (proceso 1).
+[INFO] 23:55:50:50 CPU/(4452:4452): FIN Handshake(1)
+[INFO] 23:56:47:703 CPU/(4766:4766): Se abrió el archivo de configuración correctamente.
+[INFO] 23:56:48:353 CPU/(4766:4766): Socket creado correctamente.
+[INFO] 23:56:48:354 CPU/(4766:4766): Conectado al Servidor correctamente.
+[INFO] 23:56:48:354 CPU/(4766:4766): INICIO Handshake(1)...
+[INFO] 23:56:48:354 CPU/(4766:4766): Se envió menasje (proceso 1).
+[INFO] 23:58:18:570 CPU/(4766:4766): FIN Handshake(1)
+[INFO] 23:58:30:582 CPU/(4766:4766): Incio de Operacion: '1'
+[INFO] 23:58:47:188 CPU/(4766:4766): Se envió menasje (proceso 1).
+[INFO] 00:06:46:788 CPU/(5300:5300): Se abrió el archivo de configuración correctamente.
+[INFO] 00:06:46:789 CPU/(5300:5300): Socket creado correctamente.
+[INFO] 00:06:46:789 CPU/(5300:5300): Conectado al Servidor correctamente.
+[INFO] 00:06:46:789 CPU/(5300:5300): INICIO Handshake(1)...
+[INFO] 00:06:46:789 CPU/(5300:5300): Se envió menasje (proceso 1).
+[INFO] 00:06:50:349 CPU/(5300:5300): FIN Handshake(1)
+[INFO] 00:06:51:352 CPU/(5300:5300): Incio de Operacion: '1'
+[INFO] 00:06:51:353 CPU/(5300:5300): Se envió menasje (proceso 1).
+[INFO] 00:10:41:285 CPU/(5533:5533): Se abrió el archivo de configuración correctamente.
+[INFO] 00:10:42:77 CPU/(5533:5533): Socket creado correctamente.
+[INFO] 00:10:42:78 CPU/(5533:5533): Conectado al Servidor correctamente.
+[INFO] 00:10:42:78 CPU/(5533:5533): INICIO Handshake(1)...
+[INFO] 00:10:42:78 CPU/(5533:5533): Se envió menasje (proceso 1).
+[INFO] 00:10:49:836 CPU/(5533:5533): FIN Handshake(1)
+[INFO] 00:11:09:58 CPU/(5533:5533): Incio de Operacion: '1'
+[INFO] 00:11:09:65 CPU/(5533:5533): Se envió menasje (proceso 1).
+[INFO] 00:12:14:831 CPU/(5689:5689): Se abrió el archivo de configuración correctamente.
+[INFO] 00:12:15:671 CPU/(5689:5689): Socket creado correctamente.
+[INFO] 00:12:15:672 CPU/(5689:5689): Conectado al Servidor correctamente.
+[INFO] 00:12:15:672 CPU/(5689:5689): INICIO Handshake(1)...
+[INFO] 00:12:15:672 CPU/(5689:5689): Se envió menasje (proceso 1).
+[INFO] 00:12:18:351 CPU/(5689:5689): FIN Handshake(1)
+[INFO] 00:12:38:720 CPU/(5689:5689): Incio de Operacion: '1'
+[INFO] 00:13:16:143 CPU/(5689:5689): Se envió menasje (proceso 1).
+[INFO] 00:23:20:198 CPU/(6118:6118): Se abrió el archivo de configuración correctamente.
+[INFO] 00:23:21:138 CPU/(6118:6118): Socket creado correctamente.
+[INFO] 00:23:21:139 CPU/(6118:6118): Conectado al Servidor correctamente.
+[INFO] 00:23:21:139 CPU/(6118:6118): INICIO Handshake(1)...
+[INFO] 00:23:21:139 CPU/(6118:6118): Se envió menasje (proceso 1).
+[INFO] 00:23:40:139 CPU/(6118:6118): FIN Handshake(1)
+[INFO] 00:24:05:535 CPU/(6118:6118): Incio de Operacion: '1'
+[INFO] 00:24:08:267 CPU/(6118:6118): Se envió menasje (proceso 1).
+[INFO] 23:10:47:409 CPU/(22571:22571): Se abrió el archivo de configuración correctamente.
+[INFO] 23:10:49:14 CPU/(22571:22571): Socket creado correctamente.
+[INFO] 23:10:49:780 CPU/(22571:22571): Conectado al Servidor correctamente.
+[INFO] 23:10:50:278 CPU/(22571:22571): INICIO Handshake(1)...
+[INFO] 23:10:51:36 CPU/(22571:22571): Se envió menasje (proceso 1).
+[INFO] 23:13:55:404 CPU/(22808:22808): Se abrió el archivo de configuración correctamente.
+[INFO] 23:13:58:354 CPU/(22808:22808): Socket creado correctamente.
+[INFO] 23:13:58:634 CPU/(22808:22808): Conectado al Servidor correctamente.
+[INFO] 23:13:58:851 CPU/(22808:22808): INICIO Handshake(1)...
+[INFO] 23:13:59:522 CPU/(22808:22808): Se envió menasje (proceso 1).
+[INFO] 23:15:15:487 CPU/(22808:22808): FIN Handshake(1)
+[INFO] 23:15:16:487 CPU/(22808:22808): Incio de Operacion: '1'
+[INFO] 23:15:16:487 CPU/(22808:22808): Se envió menasje (proceso 1).
+[INFO] 23:17:08:57 CPU/(23063:23063): Se abrió el archivo de configuración correctamente.
+[INFO] 23:17:09:358 CPU/(23063:23063): Socket creado correctamente.
+[INFO] 23:17:18:13 CPU/(23063:23063): Conectado al Servidor correctamente.
+[INFO] 23:17:22:687 CPU/(23063:23063): INICIO Handshake(1)...
+[INFO] 23:17:52:658 CPU/(23063:23063): Se envió menasje (proceso 1).
+[INFO] 23:18:05:206 CPU/(23063:23063): FIN Handshake(1)
+[INFO] 23:18:06:207 CPU/(23063:23063): Incio de Operacion: '1'
+[INFO] 23:18:06:207 CPU/(23063:23063): Se envió menasje (proceso 1).
+[INFO] 20:30:03:95 CPU/(6984:6984): Se abrió el archivo de configuración correctamente.
+[INFO] 20:30:10:477 CPU/(6984:6984): Socket creado correctamente.
+[INFO] 20:30:11:50 CPU/(6984:6984): Conectado al Servidor correctamente.
+[INFO] 20:30:12:98 CPU/(6984:6984): INICIO Handshake(1)...
+[INFO] 20:30:13:339 CPU/(6984:6984): Se envió menasje (proceso 1).
+[ERROR] 20:31:39:272 CPU/(6984:6984): Se desconecto o ocurrio un error con el socket (sock_id: 4).
+[INFO] 20:33:16:600 CPU/(7236:7236): Se abrió el archivo de configuración correctamente.
+[INFO] 20:33:18:58 CPU/(7236:7236): Socket creado correctamente.
+[INFO] 20:33:18:374 CPU/(7236:7236): Conectado al Servidor correctamente.
+[INFO] 20:33:18:828 CPU/(7236:7236): INICIO Handshake(1)...
+[INFO] 20:33:19:529 CPU/(7236:7236): Se envió menasje (proceso 1).
+[INFO] 20:39:11:935 CPU/(7531:7531): Se abrió el archivo de configuración correctamente.
+[INFO] 20:39:11:936 CPU/(7531:7531): Socket creado correctamente.
+[INFO] 20:39:11:936 CPU/(7531:7531): Conectado al Servidor correctamente.
+[INFO] 20:39:11:936 CPU/(7531:7531): INICIO Handshake(1)...
+[INFO] 20:39:11:936 CPU/(7531:7531): Se envió menasje (proceso 1).
+[ERROR] 20:40:12:274 CPU/(7531:7531): Se desconecto o ocurrio un error con el socket (sock_id: 4).
+[INFO] 20:42:41:968 CPU/(7843:7843): Se abrió el archivo de configuración correctamente.
+[INFO] 20:42:41:970 CPU/(7843:7843): Socket creado correctamente.
+[INFO] 20:42:41:970 CPU/(7843:7843): Conectado al Servidor correctamente.
+[INFO] 20:42:41:970 CPU/(7843:7843): INICIO Handshake(1)...
+[INFO] 20:42:41:981 CPU/(7843:7843): Se envió menasje (proceso 1).
+[ERROR] 20:43:25:283 CPU/(7843:7843): Se desconecto o ocurrio un error con el socket (sock_id: 4).
+[INFO] 20:44:33:565 CPU/(8040:8040): Se abrió el archivo de configuración correctamente.
+[INFO] 20:44:33:572 CPU/(8040:8040): Socket creado correctamente.
+[INFO] 20:44:33:573 CPU/(8040:8040): Conectado al Servidor correctamente.
+[INFO] 20:44:33:573 CPU/(8040:8040): INICIO Handshake(1)...
+[INFO] 20:44:33:578 CPU/(8040:8040): Se envió menasje (proceso 1).
+[ERROR] 20:45:21:428 CPU/(8040:8040): Se desconecto o ocurrio un error con el socket (sock_id: 4).
+[INFO] 20:46:52:934 CPU/(8255:8255): Se abrió el archivo de configuración correctamente.
+[INFO] 20:46:52:938 CPU/(8255:8255): Socket creado correctamente.
+[INFO] 20:46:52:938 CPU/(8255:8255): Conectado al Servidor correctamente.
+[INFO] 20:46:52:939 CPU/(8255:8255): INICIO Handshake(1)...
+[INFO] 20:46:52:950 CPU/(8255:8255): Se envió menasje (proceso 1).
+[INFO] 20:47:40:792 CPU/(8255:8255): FIN Handshake(1)
+[INFO] 20:47:41:793 CPU/(8255:8255): Incio de Operacion: '1'
+[INFO] 20:47:41:793 CPU/(8255:8255): Se envió menasje (proceso 1).
+[INFO] 20:48:40:425 CPU/(8404:8404): Se abrió el archivo de configuración correctamente.
+[INFO] 20:48:41:983 CPU/(8404:8404): Socket creado correctamente.
+[INFO] 20:48:42:363 CPU/(8404:8404): Conectado al Servidor correctamente.
+[INFO] 20:48:42:798 CPU/(8404:8404): INICIO Handshake(1)...
+[INFO] 20:48:43:307 CPU/(8404:8404): Se envió menasje (proceso 1).
+[INFO] 20:49:12:748 CPU/(8468:8468): Se abrió el archivo de configuración correctamente.
+[INFO] 20:49:14:78 CPU/(8468:8468): Socket creado correctamente.
+[INFO] 20:49:14:733 CPU/(8468:8468): Conectado al Servidor correctamente.
+[INFO] 20:49:14:973 CPU/(8468:8468): INICIO Handshake(1)...
+[INFO] 20:49:15:549 CPU/(8468:8468): Se envió menasje (proceso 1).
+[INFO] 21:18:29:354 CPU/(9480:9480): Se abrió el archivo de configuración correctamente.
+[INFO] 21:18:32:762 CPU/(9480:9480): Socket creado correctamente.
+[INFO] 21:18:32:986 CPU/(9480:9480): Conectado al Servidor correctamente.
+[INFO] 21:18:33:357 CPU/(9480:9480): INICIO Handshake(1)...
+[INFO] 21:18:33:619 CPU/(9480:9480): Se envió menasje (proceso 1).
+[INFO] 21:37:16:396 CPU/(10312:10312): Se abrió el archivo de configuración correctamente.
+[INFO] 21:37:17:971 CPU/(10312:10312): Socket creado correctamente.
+[INFO] 21:37:18:311 CPU/(10312:10312): Conectado al Servidor correctamente.
+[INFO] 21:37:18:686 CPU/(10312:10312): INICIO Handshake(1)...
+[INFO] 21:37:20:621 CPU/(10312:10312): Se envió menasje (proceso 1).
+[INFO] 21:40:17:841 CPU/(10474:10474): Se abrió el archivo de configuración correctamente.
+[INFO] 21:40:21:730 CPU/(10474:10474): Socket creado correctamente.
+[INFO] 21:40:22:100 CPU/(10474:10474): Conectado al Servidor correctamente.
+[INFO] 21:40:22:586 CPU/(10474:10474): INICIO Handshake(1)...
+[INFO] 21:40:23:830 CPU/(10474:10474): Se envió menasje (proceso 1).
+[INFO] 21:52:22:360 CPU/(11028:11028): Se abrió el archivo de configuración correctamente.
+[INFO] 21:52:25:394 CPU/(11028:11028): Socket creado correctamente.
+[INFO] 21:52:25:925 CPU/(11028:11028): Conectado al Servidor correctamente.
+[INFO] 21:52:27:339 CPU/(11028:11028): INICIO Handshake(1)...
+[INFO] 21:52:31:600 CPU/(11028:11028): Se envió menasje (proceso 1).
+[INFO] 21:53:36:429 CPU/(11119:11119): Se abrió el archivo de configuración correctamente.
+[INFO] 21:53:36:429 CPU/(11119:11119): Socket creado correctamente.
+[INFO] 21:53:36:430 CPU/(11119:11119): Conectado al Servidor correctamente.
+[INFO] 21:53:36:430 CPU/(11119:11119): INICIO Handshake(1)...
+[INFO] 21:53:36:430 CPU/(11119:11119): Se envió menasje (proceso 1).
+[INFO] 21:53:36:430 CPU/(11119:11119): Se recibio handshake: (null)
+[INFO] 21:53:36:430 CPU/(11119:11119): FIN Handshake(1)
+[INFO] 21:53:37:430 CPU/(11119:11119): Incio de Operacion: '1'
+[INFO] 21:53:37:431 CPU/(11119:11119): Se envió menasje (proceso 1).
+[INFO] 22:00:06:654 CPU/(4494:4494): Se abrió el archivo de configuración correctamente.
+[INFO] 22:00:06:676 CPU/(4494:4494): Socket creado correctamente.
+[INFO] 22:00:06:677 CPU/(4494:4494): Conectado al Servidor correctamente.
+[INFO] 22:00:06:678 CPU/(4494:4494): INICIO Handshake(1)...
+[INFO] 22:00:06:678 CPU/(4494:4494): Se envió menasje (proceso 1).
+[INFO] 22:00:06:678 CPU/(4494:4494): Se recibio handshake: (null)
+[INFO] 22:00:06:678 CPU/(4494:4494): FIN Handshake(1)
+[INFO] 22:00:07:678 CPU/(4494:4494): Incio de Operacion: '1'
+[INFO] 22:00:07:679 CPU/(4494:4494): Se envió menasje (proceso 1).
+[INFO] 22:05:33:500 CPU/(4653:4653): Se abrió el archivo de configuración correctamente.
+[INFO] 22:05:33:501 CPU/(4653:4653): Socket creado correctamente.
+[INFO] 22:05:33:501 CPU/(4653:4653): Conectado al Servidor correctamente.
+[INFO] 22:05:33:501 CPU/(4653:4653): INICIO Handshake(1)...
+[INFO] 22:05:33:502 CPU/(4653:4653): Se envió menasje (proceso 1).
+[INFO] 22:05:33:502 CPU/(4653:4653): Se recibio handshake: (null)
+[INFO] 22:05:33:502 CPU/(4653:4653): FIN Handshake(1)
+[INFO] 22:05:34:503 CPU/(4653:4653): Incio de Operacion: '2'
+[INFO] 22:05:34:503 CPU/(4653:4653): Se envió menasje (proceso 1).
+[INFO] 22:06:19:83 CPU/(4707:4707): Se abrió el archivo de configuración correctamente.
+[INFO] 22:06:19:87 CPU/(4707:4707): Socket creado correctamente.
+[INFO] 22:06:19:87 CPU/(4707:4707): Conectado al Servidor correctamente.
+[INFO] 22:06:19:88 CPU/(4707:4707): INICIO Handshake(1)...
+[INFO] 22:06:19:88 CPU/(4707:4707): Se envió menasje (proceso 1).
+[INFO] 22:06:19:88 CPU/(4707:4707): Se recibio handshake: (null)
+[INFO] 22:06:19:88 CPU/(4707:4707): FIN Handshake(1)
+[INFO] 22:06:20:89 CPU/(4707:4707): Incio de Operacion: '2'
+[INFO] 22:06:20:89 CPU/(4707:4707): Se envió menasje (proceso 1).
+[INFO] 22:29:04:672 CPU/(5710:5710): Se abrió el archivo de configuración correctamente.
+[INFO] 22:29:04:676 CPU/(5710:5710): Socket creado correctamente.
+[INFO] 22:29:04:677 CPU/(5710:5710): Conectado al Servidor correctamente.
+[INFO] 22:29:04:677 CPU/(5710:5710): INICIO Handshake(1)...
+[INFO] 22:29:04:677 CPU/(5710:5710): Se envió menasje (proceso 1).
+[INFO] 22:29:04:678 CPU/(5710:5710): Se recibio handshake: (null)
+[INFO] 22:29:04:678 CPU/(5710:5710): FIN Handshake(1)
+[INFO] 22:29:05:678 CPU/(5710:5710): Return Operacion
+[INFO] 22:30:30:269 CPU/(5798:5798): Se abrió el archivo de configuración correctamente.
+[INFO] 22:30:30:276 CPU/(5798:5798): Socket creado correctamente.
+[INFO] 22:30:30:276 CPU/(5798:5798): Conectado al Servidor correctamente.
+[INFO] 22:30:30:276 CPU/(5798:5798): INICIO Handshake(1)...
+[INFO] 22:30:30:277 CPU/(5798:5798): Se envió menasje (proceso 1).
+[INFO] 22:30:30:277 CPU/(5798:5798): Se recibio handshake: (null)
+[INFO] 22:30:30:277 CPU/(5798:5798): FIN Handshake(1)
+[INFO] 22:30:31:278 CPU/(5798:5798): Incio de Operacion: '2'
+[INFO] 22:30:31:280 CPU/(5798:5798): Se envió menasje (proceso 1).
+[INFO] 22:34:22:512 CPU/(6313:6313): Se abrió el archivo de configuración correctamente.
+[INFO] 22:34:22:513 CPU/(6313:6313): Socket creado correctamente.
+[INFO] 22:34:22:514 CPU/(6313:6313): Conectado al Servidor correctamente.
+[INFO] 22:34:22:515 CPU/(6313:6313): INICIO Handshake(1)...
+[INFO] 22:34:22:515 CPU/(6313:6313): Se envió menasje (proceso 1).
+[INFO] 22:34:22:516 CPU/(6313:6313): Se recibio handshake: (null)
+[INFO] 22:34:22:516 CPU/(6313:6313): FIN Handshake(1)
+[INFO] 22:34:23:517 CPU/(6313:6313): Incio de Operacion: '2'
+[INFO] 22:34:23:518 CPU/(6313:6313): Se envió menasje (proceso 1).
+[INFO] 23:21:13:509 CPU/(8162:8162): Se abrió el archivo de configuración correctamente.
+[INFO] 23:21:13:527 CPU/(8162:8162): Socket creado correctamente.
+[INFO] 23:21:13:528 CPU/(8162:8162): Conectado al Servidor correctamente.
+[INFO] 23:21:13:528 CPU/(8162:8162): INICIO Handshake(1)...
+[INFO] 23:21:13:528 CPU/(8162:8162): Se envió menasje (proceso 1).
+[INFO] 23:21:13:528 CPU/(8162:8162): FIN Handshake(1)
+[INFO] 23:21:14:530 CPU/(8162:8162): Incio de Operacion: '2'
+[INFO] 23:23:08:159 CPU/(8264:8264): Se abrió el archivo de configuración correctamente.
+[INFO] 23:23:08:160 CPU/(8264:8264): Socket creado correctamente.
+[INFO] 23:23:08:164 CPU/(8264:8264): Conectado al Servidor correctamente.
+[INFO] 23:23:08:164 CPU/(8264:8264): INICIO Handshake(1)...
+[INFO] 23:23:08:165 CPU/(8264:8264): Se envió menasje (proceso 1).
+[INFO] 23:23:08:165 CPU/(8264:8264): FIN Handshake(1)
+[INFO] 23:23:09:166 CPU/(8264:8264): Incio de Operacion: '2'
+[INFO] 23:24:31:0 CPU/(8353:8353): Se abrió el archivo de configuración correctamente.
+[INFO] 23:24:31:2 CPU/(8353:8353): Socket creado correctamente.
+[INFO] 23:24:31:2 CPU/(8353:8353): Conectado al Servidor correctamente.
+[INFO] 23:24:31:3 CPU/(8353:8353): INICIO Handshake(1)...
+[INFO] 23:24:31:3 CPU/(8353:8353): Se envió menasje (proceso 1).
+[INFO] 23:24:32:8 CPU/(8353:8353): FIN Handshake(1)
+[INFO] 23:24:33:8 CPU/(8353:8353): Incio de Operacion: '2'
+[INFO] 23:26:08:114 CPU/(8476:8476): Se abrió el archivo de configuración correctamente.
+[INFO] 23:26:08:115 CPU/(8476:8476): Socket creado correctamente.
+[INFO] 23:26:08:115 CPU/(8476:8476): Conectado al Servidor correctamente.
+[INFO] 23:26:08:116 CPU/(8476:8476): INICIO Handshake(1)...
+[INFO] 23:26:08:116 CPU/(8476:8476): Se envió menasje (proceso 1).
+[INFO] 23:26:08:116 CPU/(8476:8476): FIN Handshake(1)
+[INFO] 23:26:09:117 CPU/(8476:8476): Incio de Operacion: '2'
+[INFO] 23:26:09:117 CPU/(8476:8476): Se envió menasje (proceso 1).
+[INFO] 23:18:32:239 CPU/(13054:13054): Se abrió el archivo de configuración correctamente.
+[INFO] 23:18:32:264 CPU/(13054:13054): Socket creado correctamente.
+[INFO] 23:18:32:264 CPU/(13054:13054): Conectado al Servidor correctamente.
+[INFO] 23:18:32:264 CPU/(13054:13054): INICIO Handshake(1)...
+[INFO] 23:18:32:264 CPU/(13054:13054): Se envió menasje (proceso 1).
+[INFO] 23:18:42:542 CPU/(13054:13054): FIN Handshake(1)
+[INFO] 23:18:43:543 CPU/(13054:13054): Incio de Operacion: '2'
+[INFO] 23:18:43:543 CPU/(13054:13054): Se envió menasje (proceso 1).
+[INFO] 21:11:06:118 CPU/(8383:8383): Se abrió el archivo de configuración correctamente.
+[INFO] 21:11:06:118 CPU/(8383:8383): Socket creado correctamente.
+[ERROR] 21:11:06:119 CPU/(8383:8383): No se pudo conectar al Servidor.
+[INFO] 21:11:06:119 CPU/(8383:8383): INICIO Handshake(1)...
+[INFO] 21:17:05:258 CPU/(8764:8764): Se abrió el archivo de configuración correctamente.
+[INFO] 21:17:05:259 CPU/(8764:8764): Socket creado correctamente.
+[INFO] 21:17:05:259 CPU/(8764:8764): Conectado al Servidor correctamente.
+[INFO] 21:17:05:260 CPU/(8764:8764): INICIO Handshake(1)...
+[INFO] 21:17:05:260 CPU/(8764:8764): Se envió menasje (proceso 1).
+[INFO] 21:17:05:260 CPU/(8764:8764): FIN Handshake(1)
+[INFO] 21:17:06:261 CPU/(8764:8764): Incio de Operacion: '2'
+[INFO] 21:17:06:261 CPU/(8764:8764): Se envió menasje (proceso 1).
+[INFO] 21:19:30:762 CPU/(8851:8851): Se abrió el archivo de configuración correctamente.
+[INFO] 21:19:30:763 CPU/(8851:8851): Socket creado correctamente.
+[INFO] 21:19:30:769 CPU/(8851:8851): Conectado al Servidor correctamente.
+[INFO] 21:19:30:769 CPU/(8851:8851): INICIO Handshake(1)...
+[INFO] 21:19:30:769 CPU/(8851:8851): Se envió menasje (proceso 1).
+[INFO] 21:19:30:816 CPU/(8851:8851): FIN Handshake(1)
+[INFO] 21:19:31:816 CPU/(8851:8851): Incio de Operacion: '2'
+[INFO] 21:19:31:817 CPU/(8851:8851): Se envió menasje (proceso 1).
+[INFO] 21:24:02:261 CPU/(9242:9242): Se abrió el archivo de configuración correctamente.
+[INFO] 21:24:02:279 CPU/(9242:9242): Socket creado correctamente.
+[INFO] 21:24:02:285 CPU/(9242:9242): Conectado al Servidor correctamente.
+[INFO] 21:24:02:285 CPU/(9242:9242): INICIO Handshake(1)...
+[INFO] 21:24:02:285 CPU/(9242:9242): Se envió menasje (proceso 1).
+[INFO] 21:24:02:307 CPU/(9242:9242): FIN Handshake(1)
+[INFO] 21:24:03:307 CPU/(9242:9242): Incio de Operacion: '2'
+[INFO] 21:24:03:307 CPU/(9242:9242): Se envió menasje (proceso 1).
+[INFO] 21:25:29:897 CPU/(9265:9265): Se abrió el archivo de configuración correctamente.
+[INFO] 21:25:29:902 CPU/(9265:9265): Socket creado correctamente.
+[INFO] 21:25:29:907 CPU/(9265:9265): Conectado al Servidor correctamente.
+[INFO] 21:25:29:908 CPU/(9265:9265): INICIO Handshake(1)...
+[INFO] 21:25:29:908 CPU/(9265:9265): Se envió menasje (proceso 1).
+[INFO] 21:25:29:939 CPU/(9265:9265): FIN Handshake(1)
+[INFO] 21:25:30:940 CPU/(9265:9265): Incio de Operacion: '2'
+[INFO] 21:25:30:940 CPU/(9265:9265): Se envió menasje (proceso 1).
+[INFO] 21:30:54:892 CPU/(9508:9508): Se abrió el archivo de configuración correctamente.
+[INFO] 21:30:54:902 CPU/(9508:9508): Socket creado correctamente.
+[INFO] 21:30:54:907 CPU/(9508:9508): Conectado al Servidor correctamente.
+[INFO] 21:30:54:908 CPU/(9508:9508): INICIO Handshake(1)...
+[INFO] 21:30:54:908 CPU/(9508:9508): Se envió menasje (proceso 1).
+[INFO] 21:30:54:926 CPU/(9508:9508): FIN Handshake(1)
+[INFO] 21:30:55:927 CPU/(9508:9508): Incio de Operacion: '2'
+[INFO] 21:30:55:927 CPU/(9508:9508): Se envió menasje (proceso 1).
+[INFO] 20:43:26:48 CPU/(6845:6845): *************** NUEVO LOG ***************
+[INFO] 20:43:26:130 CPU/(6845:6845): Se abrió el archivo de configuración correctamente.
+[INFO] 20:43:26:130 CPU/(6845:6845): Socket creado correctamente.
+[INFO] 20:43:26:130 CPU/(6845:6845): Conectado al Servidor correctamente.
+[INFO] 20:43:26:131 CPU/(6845:6845): INICIO Handshake(1)...
+[INFO] 20:43:26:131 CPU/(6845:6845): Se envió menasje (proceso 1).
+[INFO] 20:43:26:131 CPU/(6845:6845): FIN Handshake(1)
+[INFO] 20:43:27:136 CPU/(6845:6845): Incio de Operacion: '2'
+[INFO] 20:43:27:136 CPU/(6845:6845): Se envió menasje (proceso 1).
+[INFO] 20:43:27:137 CPU/(6845:6845): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 20:45:36:409 CPU/(6937:6937): *************** NUEVO LOG ***************
+[INFO] 20:45:36:412 CPU/(6937:6937): Se abrió el archivo de configuración correctamente.
+[INFO] 20:45:36:413 CPU/(6937:6937): Socket creado correctamente.
+[INFO] 20:45:36:413 CPU/(6937:6937): Conectado al Servidor correctamente.
+[INFO] 20:45:36:416 CPU/(6937:6937): INICIO Handshake(1)...
+[INFO] 20:45:36:423 CPU/(6937:6937): Se envió menasje (proceso 1).
+[INFO] 20:45:47:867 CPU/(6937:6937): FIN Handshake(1)
+[INFO] 20:45:48:867 CPU/(6937:6937): Incio de Operacion: '2'
+[INFO] 20:45:48:867 CPU/(6937:6937): Se envió menasje (proceso 1).
+[INFO] 20:45:48:872 CPU/(6937:6937): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 20:47:35:661 CPU/(7031:7031): *************** NUEVO LOG ***************
+[INFO] 20:47:35:662 CPU/(7031:7031): Se abrió el archivo de configuración correctamente.
+[INFO] 20:47:35:663 CPU/(7031:7031): Socket creado correctamente.
+[ERROR] 20:47:35:663 CPU/(7031:7031): No se pudo conectar al Servidor.
+[INFO] 20:47:35:663 CPU/(7031:7031): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 20:49:11:720 CPU/(7119:7119): *************** NUEVO LOG ***************
+[INFO] 20:49:11:721 CPU/(7119:7119): Se abrió el archivo de configuración correctamente.
+[INFO] 20:49:11:721 CPU/(7119:7119): Socket creado correctamente.
+[INFO] 20:49:11:721 CPU/(7119:7119): Conectado al Servidor correctamente.
+[INFO] 20:49:11:721 CPU/(7119:7119): INICIO Handshake(1)...
+[INFO] 20:49:11:728 CPU/(7119:7119): Se envió menasje (proceso 1).
+[INFO] 20:49:15:749 CPU/(7119:7119): FIN Handshake(1)
+[INFO] 20:49:16:750 CPU/(7119:7119): Incio de Operacion: '2'
+[INFO] 20:49:16:750 CPU/(7119:7119): Se envió menasje (proceso 1).
+[INFO] 20:49:16:753 CPU/(7119:7119): ********* FIN DEL PROCESO DIEGO *********
+[INFO] 20:52:34:87 CPU/(7332:7332): *************** NUEVO LOG ***************
+[INFO] 20:52:34:88 CPU/(7332:7332): Se abrió el archivo de configuración correctamente.
+[INFO] 20:52:34:90 CPU/(7332:7332): Socket creado correctamente.
+[INFO] 20:52:34:91 CPU/(7332:7332): Conectado al Servidor correctamente.
+[INFO] 20:52:34:91 CPU/(7332:7332): INICIO Handshake(1)...
+[INFO] 20:52:34:98 CPU/(7332:7332): Se envió menasje (proceso 1).
+[INFO] 20:52:38:713 CPU/(7332:7332): FIN Handshake(1)
+[INFO] 20:52:39:714 CPU/(7332:7332): Incio de Operacion: '2'
+[INFO] 20:52:39:716 CPU/(7332:7332): Se envió menasje (proceso 1).
+[INFO] 20:52:39:721 CPU/(7332:7332): ********* FIN DEL PROCESO DIEGO *********

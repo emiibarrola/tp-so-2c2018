@@ -1,0 +1,125 @@
+[INFO] 09:34:19:211 FM9/(5538:5538): *************** NUEVO LOG ***************
+[ERROR] 09:34:19:211 FM9/(5538:5538): Ingrese el path del archivo de configuracion
+[INFO] 09:34:19:211 FM9/(5538:5538): ********* FIN DEL PROCESO FM9 *********
+[INFO] 09:34:50:755 FM9/(5553:5553): *************** NUEVO LOG ***************
+[ERROR] 09:34:50:807 FM9/(5553:5553): Ingrese el path del archivo de configuracion
+[INFO] 09:34:50:814 FM9/(5553:5553): ********* FIN DEL PROCESO FM9 *********
+[INFO] 09:38:23:980 FM9/(5825:5825): *************** NUEVO LOG ***************
+[ERROR] 09:38:24:36 FM9/(5825:5825): Ingrese el path del archivo de configuracion
+[INFO] 09:38:24:43 FM9/(5825:5825): ********* FIN DEL PROCESO FM9 *********
+[INFO] 09:38:40:692 FM9/(5843:5843): *************** NUEVO LOG ***************
+[INFO] 09:38:40:782 FM9/(5843:5843): Se abrió el archivo de configuración correctamente.
+[INFO] 09:38:40:823 FM9/(5843:5843): Socket creado correctamente.
+[INFO] 09:38:40:946 FM9/(5843:5843): Socket bindeado correctamente.
+[INFO] 09:38:40:947 FM9/(5843:5843): Escuchando conexiones.
+[INFO] 09:41:13:718 FM9/(5961:5961): *************** NUEVO LOG ***************
+[INFO] 09:41:13:833 FM9/(5961:5961): Se abrió el archivo de configuración correctamente.
+[INFO] 09:41:13:886 FM9/(5961:5961): Socket creado correctamente.
+[INFO] 09:41:13:947 FM9/(5961:5961): Socket bindeado correctamente.
+[INFO] 09:41:13:999 FM9/(5961:5961): Escuchando conexiones.
+[INFO] 09:51:51:311 FM9/(6513:6513): *************** NUEVO LOG ***************
+[INFO] 09:51:51:398 FM9/(6513:6513): Se abrió el archivo de configuración correctamente.
+[INFO] 09:51:51:439 FM9/(6513:6513): Socket creado correctamente.
+[INFO] 09:51:51:509 FM9/(6513:6513): Socket bindeado correctamente.
+[INFO] 09:51:51:511 FM9/(6513:6513): Escuchando conexiones.
+[INFO] 09:51:54:775 FM9/(6513:6514): Estas haciendo un dump
+[INFO] 09:51:58:702 FM9/(6513:6514): Estas haciendo un dump
+[INFO] 09:51:59:319 FM9/(6513:6514): Estas haciendo un dump
+[INFO] 09:56:17:162 FM9/(6725:6725): *************** NUEVO LOG ***************
+[INFO] 09:56:17:248 FM9/(6725:6725): Se abrió el archivo de configuración correctamente.
+[INFO] 09:56:17:284 FM9/(6725:6725): Socket creado correctamente.
+[INFO] 09:56:17:361 FM9/(6725:6725): Socket bindeado correctamente.
+[INFO] 09:56:17:363 FM9/(6725:6725): Escuchando conexiones.
+[INFO] 09:56:26:766 FM9/(6725:6726): Estas haciendo un dump
+[INFO] 09:56:28:555 FM9/(6725:6726): No se reconoce el comando
+[INFO] 09:56:30:824 FM9/(6725:6726): No se reconoce el comando
+[INFO] 09:56:32:543 FM9/(6725:6726): Estas haciendo un dump
+[ERROR] 09:56:35:314 FM9/(6725:6725): SELECT
+[INFO] 09:56:35:316 FM9/(6725:6725): ********* FIN DEL PROCESO FM9 *********
+[INFO] 09:57:31:614 FM9/(6775:6775): *************** NUEVO LOG ***************
+[ERROR] 09:57:31:663 FM9/(6775:6775): Ingrese el path del archivo de configuracion
+[INFO] 09:57:31:670 FM9/(6775:6775): ********* FIN DEL PROCESO FM9 *********
+[INFO] 09:58:40:943 FM9/(6900:6900): *************** NUEVO LOG ***************
+[ERROR] 09:58:40:991 FM9/(6900:6900): Ingrese el path del archivo de configuracion
+[INFO] 09:58:40:996 FM9/(6900:6900): ********* FIN DEL PROCESO FM9 *********
+[INFO] 09:58:53:370 FM9/(6918:6918): *************** NUEVO LOG ***************
+[INFO] 09:58:53:455 FM9/(6918:6918): Se abrió el archivo de configuración correctamente.
+[INFO] 09:58:53:490 FM9/(6918:6918): Socket creado correctamente.
+[INFO] 09:58:53:557 FM9/(6918:6918): Socket bindeado correctamente.
+[INFO] 09:58:53:558 FM9/(6918:6918): Escuchando conexiones.
+[ERROR] 09:58:55:788 FM9/(6918:6918): SELECT
+[INFO] 09:58:55:789 FM9/(6918:6918): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:04:49:987 FM9/(7394:7394): *************** NUEVO LOG ***************
+[INFO] 10:04:50:68 FM9/(7394:7394): Se abrió el archivo de configuración correctamente.
+[INFO] 10:04:50:106 FM9/(7394:7394): Socket creado correctamente.
+[INFO] 10:04:50:175 FM9/(7394:7394): Socket bindeado correctamente.
+[INFO] 10:04:50:177 FM9/(7394:7394): Escuchando conexiones.
+[INFO] 10:04:53:576 FM9/(7394:7395): No se reconoce el comando
+[INFO] 10:04:54:693 FM9/(7394:7395): No se reconoce el comando
+[ERROR] 10:04:57:81 FM9/(7394:7394): SELECT
+[INFO] 10:04:57:83 FM9/(7394:7394): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:08:07:880 FM9/(7653:7653): *************** NUEVO LOG ***************
+[INFO] 10:08:07:964 FM9/(7653:7653): Se abrió el archivo de configuración correctamente.
+[INFO] 10:08:07:992 FM9/(7653:7653): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:08:24:108 FM9/(7706:7706): *************** NUEVO LOG ***************
+[INFO] 10:08:24:196 FM9/(7706:7706): Se abrió el archivo de configuración correctamente.
+[INFO] 10:08:24:224 FM9/(7706:7706): Socket creado correctamente.
+[INFO] 10:08:24:233 FM9/(7706:7706): Socket bindeado correctamente.
+[INFO] 10:08:24:234 FM9/(7706:7706): Escuchando conexiones.
+[INFO] 10:08:27:7 FM9/(7706:7706): Se atrapo el ctrl c
+[ERROR] 10:08:27:10 FM9/(7706:7706): SELECT
+[INFO] 10:08:27:12 FM9/(7706:7706): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:10:27:730 FM9/(7828:7828): *************** NUEVO LOG ***************
+[INFO] 10:10:27:815 FM9/(7828:7828): Se abrió el archivo de configuración correctamente.
+[INFO] 10:10:27:844 FM9/(7828:7828): Socket creado correctamente.
+[INFO] 10:10:27:853 FM9/(7828:7828): Socket bindeado correctamente.
+[INFO] 10:10:27:855 FM9/(7828:7828): Escuchando conexiones.
+[INFO] 10:10:29:660 FM9/(7828:7828): Se atrapo el ctrl c
+[ERROR] 10:10:29:663 FM9/(7828:7828): SELECT
+[INFO] 10:10:29:665 FM9/(7828:7828): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:10:57:517 FM9/(7873:7873): *************** NUEVO LOG ***************
+[INFO] 10:10:57:600 FM9/(7873:7873): Se abrió el archivo de configuración correctamente.
+[INFO] 10:10:57:644 FM9/(7873:7873): Socket creado correctamente.
+[INFO] 10:10:57:718 FM9/(7873:7873): Socket bindeado correctamente.
+[INFO] 10:10:57:720 FM9/(7873:7873): Escuchando conexiones.
+[ERROR] 10:11:00:412 FM9/(7873:7873): SELECT
+[INFO] 10:11:00:415 FM9/(7873:7873): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:11:06:389 FM9/(7880:7880): *************** NUEVO LOG ***************
+[INFO] 10:11:06:472 FM9/(7880:7880): Se abrió el archivo de configuración correctamente.
+[INFO] 10:11:06:515 FM9/(7880:7880): Socket creado correctamente.
+[INFO] 10:11:06:585 FM9/(7880:7880): Socket bindeado correctamente.
+[INFO] 10:11:06:586 FM9/(7880:7880): Escuchando conexiones.
+[ERROR] 10:11:08:186 FM9/(7880:7880): SELECT
+[INFO] 10:11:08:188 FM9/(7880:7880): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:14:58:819 FM9/(8198:8198): *************** NUEVO LOG ***************
+[INFO] 10:14:59:233 FM9/(8198:8198): Se abrió el archivo de configuración correctamente.
+[INFO] 10:14:59:560 FM9/(8198:8198): Socket creado correctamente.
+[INFO] 10:14:59:816 FM9/(8198:8198): Socket bindeado correctamente.
+[INFO] 10:14:59:820 FM9/(8198:8198): Escuchando conexiones.
+[INFO] 10:15:03:462 FM9/(8198:8199): No se reconoce el comando
+[INFO] 10:15:04:373 FM9/(8198:8199): No se reconoce el comando
+[INFO] 10:15:06:637 FM9/(8198:8199): Estas haciendo un dump
+[INFO] 10:15:07:823 FM9/(8198:8199): Estas haciendo un dump
+[INFO] 10:15:09:319 FM9/(8198:8199): No se reconoce el comando
+[INFO] 10:15:10:902 FM9/(8198:8199): Estas haciendo un dump
+[ERROR] 10:15:13:743 FM9/(8198:8198): SELECT
+[INFO] 10:15:13:745 FM9/(8198:8198): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:17:20:950 FM9/(8437:8437): *************** NUEVO LOG ***************
+[INFO] 10:17:21:32 FM9/(8437:8437): Se abrió el archivo de configuración correctamente.
+[INFO] 10:17:21:76 FM9/(8437:8437): Socket creado correctamente.
+[INFO] 10:17:21:139 FM9/(8437:8437): Socket bindeado correctamente.
+[INFO] 10:17:21:141 FM9/(8437:8437): Escuchando conexiones.
+[ERROR] 10:17:22:262 FM9/(8437:8437): SELECT
+[INFO] 10:17:22:264 FM9/(8437:8437): ********* FIN DEL PROCESO FM9 *********
+[INFO] 10:18:57:557 FM9/(8584:8584): *************** NUEVO LOG ***************
+[INFO] 10:18:57:557 FM9/(8584:8584): Se abrió el archivo de configuración correctamente.
+[INFO] 10:18:57:558 FM9/(8584:8584): Socket creado correctamente.
+[INFO] 10:18:57:558 FM9/(8584:8584): Socket bindeado correctamente.
+[INFO] 10:18:57:558 FM9/(8584:8584): Escuchando conexiones.
+[INFO] 10:19:00:78 FM9/(8584:8585): No se reconoce el comando
+[INFO] 10:19:00:477 FM9/(8584:8585): No se reconoce el comando
+[INFO] 10:19:00:652 FM9/(8584:8585): No se reconoce el comando
+[INFO] 10:19:01:799 FM9/(8584:8585): No se reconoce el comando
+[INFO] 10:19:01:974 FM9/(8584:8585): No se reconoce el comando
+[ERROR] 10:19:04:553 FM9/(8584:8584): SELECT
+[INFO] 10:19:04:553 FM9/(8584:8584): ********* FIN DEL PROCESO FM9 *********
